@@ -1,0 +1,23 @@
+Functional Programming Practice (Python)
+1.	Lambda—Square Function
+Write a lambda expression that returns the square of a given number.
+2.	Map—Double Each Number
+Given a list of numbers, use map to multiply every number by 2.
+3.	Filter—Keep Even Numbers
+Given a list of numbers, use filter to retain only the even numbers.
+4.	Lambda + Map—Numbers to Strings
+Use a lambda with map to convert a list of numbers into their string representations.
+5.	Filter + Map—Squares of Positives Only
+Given a list of numbers, first use filter to keep only positive numbers, then use map to return their squares.
+6.	Filter—Remove Empty Strings
+Given a list of strings, use filter to remove all empty strings (e.g., "" or strings with only whitespace).
+7.	Map—Uppercase Words
+Given a list of words, use map to convert each word to uppercase.
+8.	Filter—Palindromic Strings
+Given a list of strings, use filter to keep only the strings that are palindromes (case-insensitive).
+9.	Map—Word Lengths
+Given a sentence, split it into words and use map to extract the length of each word.
+10.	(Optional Bonus) Compose Map/Filter
+Combine map and filter to:
+a) Remove non-numeric values from a mixed list, then
+b) Convert the remaining numbers to their absolute values.
